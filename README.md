@@ -1,2 +1,0 @@
-# OfficeManagerWeb
-Office Manager website
